@@ -48,8 +48,8 @@ The following employees have served more than 10 years with the company:
 
 ### 5️⃣ Department Distribution by Country
 
-| Country | Department | Count |
-|----------|-------------|-------|
+| Country | Department |
+|----------|-------------|
 | **Canada** | Finance (4), HR (1), Sales (2) |
 | **India**  | Finance (1), IT (4) |
 | **USA**    | HR (3), IT (2), Operations (2) |
