@@ -5,6 +5,8 @@ The dashboard provides a **one-page overview** of the workforce, highlighting **
 
 ---
 
+![Dashboard Image](Dashboard.png)
+
 ## 🧠 Questions & Insights
 
 ### 1️⃣ Employees with Over 10 Years of Experience
